@@ -6,3 +6,4 @@ print("Currently a student at the Polytechnic palestine university")
 print("Studying :", "Cyber security")
 print()
 print("-----------------------------------------")
+#in the HW 2 gold it says that i need to add a line here , but i am not too sure if its code or a comment
