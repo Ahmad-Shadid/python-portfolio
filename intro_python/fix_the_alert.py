@@ -10,3 +10,4 @@ print("Time: 09:15")
 print("If this was not you, change your password.")
 #syntax error ,because there was no parenthesis in the end
 print("Contact the IT team for help.")
+#python proccesses the syntax error first because it works by reading the program first them excuting it
